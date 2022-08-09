@@ -1,16 +1,13 @@
-# flutter_project1
+# portfolio app
 
-A new Flutter project.
+## First Flutter project.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/75921522/183561086-2a91ab6d-c5c0-4334-8198-0ae8ecaf1762.jpeg" width="300" height="600">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This project is a starting point for my app development career.
+- I could build this project as part of Tinkerhud cod(H)er program.
+
+
