@@ -7,7 +7,7 @@
 
 
 
-- This project is a starting point for my app development career.
+- This project is a simple portfolio app.
 - I could build this project as part of Tinkerhud cod(H)er program.
 
 
